@@ -91,12 +91,9 @@ results.jpg
 ```
 
 ---
-
 ## Example
 
-(Add your output image here after uploading)
-
----
+![Output](./results.jpg)
 
 ## About YOLOv8
 
